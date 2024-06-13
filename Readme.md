@@ -1,6 +1,6 @@
 # Java project
 
-# Body Mass Index (BMI) Calculator in Java
+## Body Mass Index (BMI) Calculator in Java
 
 ## Project description
 
