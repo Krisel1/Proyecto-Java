@@ -1,12 +1,12 @@
-# Proyecto en Java
+# Java project
 
-# Calculadora de Índice de Masa Corporal (IMC) en Java
+# Body Mass Index (BMI) Calculator in Java
 
-## Descripción del Proyecto
+## Project description
 
-Este proyecto es una Calculadora de IMC desarrollada en Java. Permite a los usuarios ingresar su peso en kilogramos y su altura en metros y calcula automáticamente su Índice de Masa Corporal (IMC). La aplicación también proporciona una descripción del rango de IMC obtenido.
+This project is a BMI Calculator developed in Java. It allows users to enter their weight in kilograms and height in meters and automatically calculates their Body Mass Index (BMI). The app also provides a description of the BMI range obtained.
 
-## Objetivos del Proyecto
+## Project Objectives
 
 1. Understand the basic concepts of data entry and mathematical calculations in Java.
 2. Implement logic using appropriate formulas.
